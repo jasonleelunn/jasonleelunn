@@ -7,6 +7,7 @@ Getting better at coding, one commit at a time :computer:
 ---
 
 #### [My Website :globe_with_meridians:][website]
+#### [My LinkedIn :link:][linkedin]
 
 ---
 
@@ -24,3 +25,4 @@ Getting better at coding, one commit at a time :computer:
 ---
 
 [website]: https://jasonleelunn.github.io/react-personal-web-page/
+[linkedin]: https://www.linkedin.com/in/jasonleelunn/
