@@ -6,7 +6,7 @@ Getting better at coding, one commit at a time :computer:
 
 ---
 
-[#### My Website :globe_with_meridians:][website]
+#### [My Website :globe_with_meridians:][website]
 
 ---
 
@@ -17,7 +17,7 @@ Getting better at coding, one commit at a time :computer:
 
 ---
 
-### :rocket: My Top Languages
+### :rocket: My Top Languages on GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonleelunn&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
