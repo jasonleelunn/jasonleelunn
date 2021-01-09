@@ -1,6 +1,12 @@
-# jasonleelunn
+# jasonleelunn :atom:
 
-[**My Website:** <img alt="My Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+Getting better at coding, one commit at a time :computer:  
+
+*Don't let perfect be the enemy of good*
+
+---
+
+[##My Website: <img alt="My Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ---
 
@@ -8,7 +14,6 @@
 
 <img alt="jasonleelunn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jasonleelunn&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />  
 
-<br/><br/>
 
 ---
 
