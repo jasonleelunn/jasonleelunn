@@ -1,4 +1,4 @@
-# jasonleelunn :atom:
+# :atom: jasonleelunn :atom:
 
 Getting better at coding, one commit at a time :computer:  
 
@@ -6,7 +6,7 @@ Getting better at coding, one commit at a time :computer:
 
 ---
 
-[##My Website: <img alt="My Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[#### My Website :globe_with_meridians:][website]
 
 ---
 
