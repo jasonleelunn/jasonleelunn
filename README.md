@@ -1,10 +1,5 @@
 # :atom: jasonleelunn :atom:
 
-Getting better at coding, one commit at a time :computer:  
-
-*Don't let perfect be the enemy of good*
-
----
 
 #### [My Website :globe_with_meridians:][website]
 #### [My LinkedIn :link:][linkedin]
@@ -21,6 +16,10 @@ Getting better at coding, one commit at a time :computer:
 ### :rocket: My Top Languages on GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonleelunn&layout=compact&langs_count=6&theme=dark)
+
+---
+
+*Don't let perfect be the enemy of good* :computer:
 
 ---
 
