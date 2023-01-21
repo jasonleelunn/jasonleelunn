@@ -1,7 +1,6 @@
 # :atom: jasonleelunn :atom:
 
 
-#### [My Website :globe_with_meridians:][website]
 #### [My LinkedIn :link:][linkedin]
 
 ---
@@ -20,5 +19,4 @@
 
 ---
 
-[website]: https://jasonleelunn.github.io/react-personal-web-page/
 [linkedin]: https://www.linkedin.com/in/jasonleelunn/
